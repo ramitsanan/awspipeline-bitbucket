@@ -12,6 +12,8 @@ const StyledIndexPage = styled.div`
   h1 {
     color: ${props => props.theme.PrimaryColour_1};
     padding-top: 20vh;
+    font-family: "Red Hat Display", sans-serif;
+    font-weight: 800;
   }
   button {
     margin-top: 50px;
