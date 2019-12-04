@@ -4,7 +4,7 @@ import styled from "styled-components"
 
 import Layout from "../components/Layout/"
 import SEO from "../components/SEO/seo.js"
-import Button from "../components/UI/Button"
+import Button from "../components/ui/Button"
 import prodigyEd from "../images/ed.png"
 
 const StyledIndexPage = styled.div`
